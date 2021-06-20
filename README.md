@@ -13,4 +13,4 @@ This indian guy is very cool.
 <br>
 ### How this database works?
 Here's a flowchart.<br>
-![](https://i.imgur.com/NiCfcm6.jpg)
+![](https://i.imgur.com/3ZmIKo8.jpg)
