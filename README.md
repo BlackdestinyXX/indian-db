@@ -14,3 +14,21 @@ This indian guy is very cool.
 ### How this database works?
 Here's a flowchart.<br>
 ![](https://i.imgur.com/3ZmIKo8.jpg)
+## Ok, so, what are the functions?
+This database has got 1 class and 6 methods:
+For first, we need to create the indian:
+`const indiandb = require("indian-db")
+ const guy = new indiandb.Indian("Cool-guy")
+`
+If we want to delete the indian, we need to use this class:
+`const indiandb = require("indian-db")
+ const guy = new indiandb.Indian("Cool-guy")
+ indiandb.DeleteIndian("Cool-guy")
+`
+To insert an element into the database, we can use this method:
+`const indiandb = require("indian-db")
+ const guy = new indiandb.Indian("Cool-guy")
+ guy.hello("computer", "virus")
+`
+
+
