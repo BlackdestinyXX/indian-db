@@ -11,6 +11,6 @@ This instead is your application after using this database:<br>
 
 This indian guy is very cool.
 <br>
-<h2>How this database works?<h2>
+### How this database works?
 Here's a flowchart.
 ![](https://i.imgur.com/NiCfcm6.jpg)
