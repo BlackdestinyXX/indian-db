@@ -17,8 +17,8 @@ Here's a flowchart.<br>
 ## Ok, so, what are the functions?
 This database has got 1 class and 6 methods:<br>
 For first, we need to create the indian:<br>
-`const indiandb = require("indian-db")`<br>
- `const guy = new indiandb.Indian("Cool-guy")
+`const indiandb = require("indian-db")\n
+const guy = new indiandb.Indian("Cool-guy")
 `
 <br>
 If we want to delete the indian, we need to use this class:<br>
