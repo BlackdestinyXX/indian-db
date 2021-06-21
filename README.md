@@ -60,7 +60,7 @@ And we can delete all keys of the database with this method:
 const indiandb = require("indian-db")
 const guy = new indiandb.Indian("Cool-guy")
 guy.hello("computer", "virus")
-guy.has("computer")
+guy.virus("Cool-guy")
 ```
 
 Ok so this is the most used database in the world, better than MySQL and MongoDB. Use it.
