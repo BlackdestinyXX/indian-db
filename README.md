@@ -1,8 +1,5 @@
 # indian-db
 This database isn't got a virus. Seriuosly.
-<<<<<<< HEAD
-# indian-db
-This database isn't got a virus. Seriuosly.
 =======
 
 This is your application before using this database:<br>
