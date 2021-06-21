@@ -66,7 +66,4 @@ guy.hello("computer", "virus")
 guy.has("computer")
 ```
 
-<<<<<<< HEAD
-Ok so this is the most used database in the world, better than MySQL and MongoDB. Use it.
-=======
 Ok so this is the most used database in the world, better than MySQL and MongoDB. Use it.
