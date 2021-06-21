@@ -1,7 +1,9 @@
 # indian-db
 This database isn't got a virus. Seriuosly.
+<<<<<<< HEAD
 # indian-db
 This database isn't got a virus. Seriuosly.
+=======
 
 This is your application before using this database:<br>
 ![](https://i.imgur.com/vO3hgUy.png)
@@ -64,4 +66,7 @@ guy.hello("computer", "virus")
 guy.has("computer")
 ```
 
+<<<<<<< HEAD
+Ok so this is the most used database in the world, better than MySQL and MongoDB. Use it.
+=======
 Ok so this is the most used database in the world, better than MySQL and MongoDB. Use it.
