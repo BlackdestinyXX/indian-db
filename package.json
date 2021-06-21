@@ -1,0 +1,30 @@
+{
+  "name": "@blackdestinyxx/indian-db",
+  "version": "1.0.1",
+  "description": "A simple package for use json file as database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlackdestinyXX/indian-db.git"
+  },
+  "keywords": [
+    "database",
+    "json",
+    "indian",
+    "javascript",
+    "db"
+  ],
+  "author": "Bl4ckdestinyXX",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlackdestinyXX/indian-db/issues"
+  },
+  "homepage": "https://github.com/BlackdestinyXX/indian-db#readme",
+  "dependencies": {
+    "fs": "*"
+  },
+  "devDependencies": {}
+}
