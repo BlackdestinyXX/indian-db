@@ -33,5 +33,33 @@ const indiandb = require("indian-db")
 const guy = new indiandb.Indian("Cool-guy")
 guy.hello("computer", "virus")
 ```
+Now, for get it, we can do this:
+```javascript
+const indiandb = require("indian-db")
+const guy = new indiandb.Indian("Cool-guy")
+guy.hello("computer", "virus")
+guy.your("computer")
+```
+To remove the key, we can use this method:
+```javascript
+const indiandb = require("indian-db")
+const guy = new indiandb.Indian("Cool-guy")
+guy.hello("computer", "virus")
+guy.computer("computer")
+```
+For check if the key exists:
+```javascript
+const indiandb = require("indian-db")
+const guy = new indiandb.Indian("Cool-guy")
+guy.hello("computer", "virus")
+guy.has("computer")
+```
+And we can delete all keys of the database with this method:
+```javascript
+const indiandb = require("indian-db")
+const guy = new indiandb.Indian("Cool-guy")
+guy.hello("computer", "virus")
+guy.has("computer")
+```
 
-
+Ok so this is the most used database in the world, better than MySQL and MongoDB. Use it.
